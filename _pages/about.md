@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Shen Liang (沈亮) received Bachelor degree in Huazhong University of Science & Technology (HUST) from 2012 to 2016, and obtained Master degree in Huazhong University of Science & Technology from 2016 to 2019. Now he is a R & D Engineer in deep learning development platform (DLTP) of Baidu.com （Beijing） for distributed development.
+Shen Liang (沈亮) received Bachelor degree in Huazhong University of Science & Technology (HUST) from 2012 to 2016, and obtained Master degree in Huazhong University of Science & Technology from 2016 to 2019. Now he is a R & D Engineer in deep learning development platform (DLTP) of Baidu (Beijing) for distributed development.
 
 **Research Area**: Machine learning, Computer vision, Distributed machine learning and etc.
 
 **Email** :2282912238@qq.com
+
+Education
+======
+2016.9~2019.7 华中科技大学 图像识别与人工智能研究所 硕士 排名： 8/78 硕士 保送
+2012.9~2016.6 华中科技大学 自动化理工交叉创新实验班 学士 排名： 2/22
 
 Research & Patent
 ======
@@ -42,7 +47,3 @@ Work experience
 - Work in Baidu (Beijing) for the development of paddlepaddle (deep learning platform). (2019.7~至今)
 - Intern in Tencent (Shenzhen) for recommended search. (2018.6~2018.8)
 - Intern in Netease (Guangzhou) for game development. (2018.4~2018.6)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
