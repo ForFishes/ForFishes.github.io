@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Shen Liang (沈亮) received Bachelor degree in Huazhong University of Science & Technology (HUST) from 2012 to 2016, and obtained Master degree in Huazhong University of Science & Technology from 2016 to 2019. Now he is a R & D Engineer in deep learning development platform (DLTP) of Baidu (Beijing) for distributed development.
+Shen Liang (沈亮) received his Bachelor degree and Master degree in Huazhong University of Science & Technology from 2012 to 2019. Now he is a R&D engineer in deep learning development platform (DLTP) of Baidu (Beijing) for distributed development.
 
-**Research Area**: Machine learning, Computer vision, Distributed machine learning and etc.
+**Research Area**: Machine learning, Computer vision, Distributed systems and etc.
 
 **Email** :2282912238@qq.com
 
