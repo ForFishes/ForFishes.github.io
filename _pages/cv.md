@@ -18,7 +18,7 @@ Work experience
 ======
 * Baidu Online Network Technology (Beijing) Co.
   * Deep Learning Technology Platform (DLTP)
-  * Duties included: Distributed develop for PaddlePaddle
+  * Duties included: Distributed development for paddlepaddle
   
 Skills
 ======
