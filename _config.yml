@@ -77,7 +77,7 @@ analytics:
 author:
   name             : "Shen Liang"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Beijing"
   employer         : "Baidu"
   email            : "2282912238@qq.com"
