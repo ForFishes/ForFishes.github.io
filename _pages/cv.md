@@ -12,19 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Academy of Automation, Huazhong University of Science & Technology, 2012~2016
-* M.S. in School of Artificial Intelligence and Automation, Huazhong University of Science & Technology, 2016~2019
+* M.S. in School of Artificial Intelligence & Automation, Huazhong University of Science & Technology, 2016~2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Baidu Online Network Technology (Beijing) Co.
+  * Deep Learning Technology Platform (DLTP)
+  * Duties included: Distributed develop for PaddlePaddle
   
 Skills
 ======
