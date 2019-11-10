@@ -13,12 +13,15 @@ Shen Liang (沈亮) received Bachelor degree in Huazhong University of Science &
 
 **Email** :2282912238@qq.com
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
 Research & Patent
 ======
-- *Liang Shen* , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. MSR net:Low light Image Enhancement Using Deep Convolutional Network ". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 28
-- *Liang Shen* , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. Deep joint rain and haze removal from single images ." International Conference on Pattern Recognition (ICPR). [Paper](https://arxiv.org/pdf/1801.06769)
+- <u>Liang Shen</u> , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. MSR net:Low light Image Enhancement Using Deep Convolutional Network ". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 32
+- <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. Deep joint rain and haze removal from single images ." 2018 24th International Conference on Pattern Recognition (ICPR). [Paper](https://arxiv.org/pdf/1801.06769) 引用量： 5
+- Zihan Yue, <u>Liang Shen</u>, Jie Ma "Sea Surface Object Recognition under the Low-light Environment." 2018 International
+Conference on Intelligent Robotics and Applications (ICIRA). [Paper](https://link.springer.com/chapter/10.1007/978-3-319-97589-4_29) 
+- Fangyu Hu, Jie Ma, <u>Liang Shen</u>, Huajun Du "Digital video stabilization based on multilayer gray projection." Signal Processing: Image Communication. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596518301012)
+- “一种基于中心映射的快速稳像方法” 申请号或专利号： 201710963091.2 发明人：马杰(导师) 沈亮
+
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
