@@ -11,7 +11,7 @@ Shen Liang (沈亮) received his Bachelor degree and Master degree in Huazhong U
 
 **Research Area**: Machine learning, Computer vision, Distributed systems and etc.
 
-**Email** :2282912238@qq.com
+**Email** :2282912238@qq.com / shenliang_hust@163.com
 
 
 Education
