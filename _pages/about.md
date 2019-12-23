@@ -29,8 +29,8 @@ Education
 
 Research & Patent
 ======
-- <u>Liang Shen</u> , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. " MSR net:Low light Image Enhancement Using Deep Convolutional Network". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 32
-- <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. " Deep joint rain and haze removal from single images". 2018 24th International Conference on Pattern Recognition (ICPR). [Paper](https://arxiv.org/pdf/1801.06769) 引用量： 5
+- <u>Liang Shen</u> , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. " MSR net:Low light Image Enhancement Using Deep Convolutional Network". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 38
+- <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. " Deep joint rain and haze removal from single images". 2018 24th International Conference on Pattern Recognition (ICPR). [Paper](https://arxiv.org/pdf/1801.06769) 引用量： 7
 - Zihan Yue, <u>Liang Shen</u>, Jie Ma. "Sea Surface Object Recognition under the Low-light Environment." 2018 International
 Conference on Intelligent Robotics and Applications (ICIRA). [Paper](https://link.springer.com/chapter/10.1007/978-3-319-97589-4_29) 
 - Fangyu Hu, Jie Ma, <u>Liang Shen</u>, Huajun Du. " Digital video stabilization based on multilayer gray projection". Signal Processing: Image Communication. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596518301012)
@@ -45,11 +45,12 @@ Awards
 
 Competition
 ======
-- 天池精准医疗大赛 第一赛季 38/2522 第二赛季 7/2522 (2018)
-- 京东金融全球数据探索者大赛 信贷需求预测 排名 2/754 (2017)
-- 美国大学生数学建模竞赛 (ICM) 一等奖 (Meritorious） (2015)
-- 全国大学生数学建模竞赛 国家二等奖 (2014)
-- 第五届全国大学生数学竞赛 非数学类 湖北省 二等奖 (2013)
+- 2018 天池精准医疗大赛 第一赛季 38/2522 第二赛季 7/2522 
+- 2017 京东金融全球数据探索者大赛 信贷需求预测 排名 2/754
+- 2015 美国大学生数学建模竞赛 (ICM) 一等奖 (Meritorious）（13%）
+- 2014 全国大学生数学建模竞赛 国家二等奖 （10%）
+- 2014 第七届华中数学建模邀请赛 二等奖
+- 2013 第五届全国大学生数学竞赛 非数学类 湖北省 二等奖
 
 Work experience
 ======
