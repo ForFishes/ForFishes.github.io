@@ -42,7 +42,7 @@ Research & Patent
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/8545729) 引用量：7
 
-<img src="../images/msr-net.png" width = "200" height = "100" alt="图片名称" align=left />
+<img src="../images/digao.png" width = "200" height = "100" alt="图片名称" align=left />
 
 - Zihan Yue, <u>Liang Shen</u>, Jie Ma. "Sea Surface Object Recognition under the Low-light Environment." 2018 International
 Conference on Intelligent Robotics and Applications (ICIRA). 
