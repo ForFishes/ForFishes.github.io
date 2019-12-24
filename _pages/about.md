@@ -17,15 +17,15 @@ Shen Liang (沈亮) received his Bachelor degree and Master degree in Huazhong U
 Education
 ======
 
-- Huazhong University of Science and Technology (2012.9~2016.7)
-  * Bachelor degree in School of Automation
-  * GPA: 90.56/100      Rank: 2/22
-  * Advisor: Dr.Xi Li
-  
 - Huazhong University of Science and Technology (2016.9~2019.7)
   * Master degree in School of Artificial Intelligence & Automation
-  * GPA: 90.00/100      Rank: 8/78
+  * GPA: 90.00/100;      Rank: 8/78
   * Advisor: Dr.Jie Ma
+  
+- Huazhong University of Science and Technology (2012.9~2016.7)
+  * Bachelor degree in School of Automation
+  * GPA: 90.56/100;      Rank: 2/22
+  * Advisor: Dr.Xi Li
 
 Research & Patent
 ======
@@ -38,7 +38,7 @@ Conference on Intelligent Robotics and Applications (ICIRA). [Paper](https://lin
 
 Awards
 ======
-- 华中科技大学 知行优秀三等奖学金 (2018)
+- 华中科技大学 知行优秀三等奖学金<p align="right">2018</p>
 - 华中科技大学 2016届“优秀毕业生”（2016）
 - 华中科技大学 大学生科技创新活动标兵 (2015)
 - 华中科技大学 大学生科技创新活动优秀个人 (2014)
