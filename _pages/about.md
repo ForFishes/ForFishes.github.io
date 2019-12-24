@@ -32,10 +32,10 @@ Research & Patent
 
 
 
-<img src="../images/msr-net.png" width = "200" height = "100" alt="图片名称" align=left />
+<img src="../images/msr-net.png" width = "200" height = "200" alt="图片名称" align=left />
 
 - <u>Liang Shen</u> , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. " MSR net:Low light Image Enhancement Using Deep Convolutional Network". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 37
-- <u>Liang Shen</u> , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. " MSR net:Low light Image Enhancement Using Deep Convolutional Network". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 37
+
 - <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. " Deep joint rain and haze removal from single images". 2018 24th International Conference on Pattern Recognition (ICPR). [Paper](https://ieeexplore.ieee.org/abstract/document/8545729) 引用量： 7
 - Zihan Yue, <u>Liang Shen</u>, Jie Ma. "Sea Surface Object Recognition under the Low-light Environment." 2018 International
 Conference on Intelligent Robotics and Applications (ICIRA). [Paper](https://link.springer.com/chapter/10.1007/978-3-319-97589-4_29) 
