@@ -36,7 +36,7 @@ Research & Patent
 
 [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 37
 
-<img src="../images/msr-net.png" width = "200" height = "100" alt="图片名称" align=left />
+<img src="../images/deepjoint.png" width = "200" height = "100" alt="图片名称" align=left />
 
 - <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. " Deep joint rain and haze removal from single images". 2018 24th International Conference on Pattern Recognition (ICPR). 
 
