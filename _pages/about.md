@@ -30,7 +30,7 @@ Education
 Research & Patent
 ======
 - <u>Liang Shen</u> , Zihan Yue, Fan Feng, Quan Chen, Shihao Liu, Jie Ma. " MSR net:Low light Image Enhancement Using Deep Convolutional Network". [Paper](https://arxiv.org/pdf/1711.02488) 引用量： 38
-- <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. " Deep joint rain and haze removal from single images". 2018 24th International Conference on Pattern Recognition (ICPR). [Paper](https://arxiv.org/pdf/1801.06769) 引用量： 7
+- <u>Liang Shen</u> , Zihan Yue, Quan Chen, Fan Feng, Jie Ma. " Deep joint rain and haze removal from single images". 2018 24th International Conference on Pattern Recognition (ICPR). [Paper](https://ieeexplore.ieee.org/abstract/document/8545729) 引用量： 7
 - Zihan Yue, <u>Liang Shen</u>, Jie Ma. "Sea Surface Object Recognition under the Low-light Environment." 2018 International
 Conference on Intelligent Robotics and Applications (ICIRA). [Paper](https://link.springer.com/chapter/10.1007/978-3-319-97589-4_29) 
 - Fangyu Hu, Jie Ma, <u>Liang Shen</u>, Huajun Du. " Digital video stabilization based on multilayer gray projection". Signal Processing: Image Communication. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596518301012)
