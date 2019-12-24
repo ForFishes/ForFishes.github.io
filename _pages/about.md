@@ -19,12 +19,12 @@ Education
 
 - Huazhong University of Science and Technology (2012.9~2016.7)
   * Bachelor degree in School of Automation
-  * GPA: 90.56/100    Rank: 2/22
+  * GPA: 90.56/100      Rank: 2/22
   * Advisor: Dr.Xi Li
   
 - Huazhong University of Science and Technology (2016.9~2019.7)
   * Master degree in School of Artificial Intelligence & Automation
-  * GPA: 90.00/100    Rank: 8/78
+  * GPA: 90.00/100      Rank: 8/78
   * Advisor: Dr.Jie Ma
 
 Research & Patent
